@@ -18,7 +18,7 @@ The **Basic Location App** is an Android application built using **Jetpack Compo
 - **Android Studio**
 
 ## 📸 Screenshots
-![WhatsApp Image 2025-02-04 at 7 26 50 PM](https://github.com/user-attachments/assets/3273cc53-87e0-499c-924b-4f5f1f483a02)
+![WhatsApp Image 2025-02-04 at 7 45 56 PM](https://github.com/user-attachments/assets/68a88dae-1778-407f-85ec-43f8e978bb2e)
 
 
 📜 Permissions Used
